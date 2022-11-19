@@ -1,0 +1,40 @@
+html,
+body {
+margin: 0;
+font-family: "Ebrima";
+font-size: 14px;
+line-height: 20px;
+  }
+  header
+   {
+    background-color: #f3faff;
+    border: 2px solid #cf0983;
+  }
+  nav,
+  section,
+  aside {
+    background-color: #f9f7ff;
+    border: 2px solid #9779ec;
+  }
+  h1 {
+    font-size: 18px;
+    background-color: #ffffff;
+    border: 2px solid #ff994f;
+  }
+  p {
+    background-color: #ffffff;
+    border: 2px solid #f36dff;
+  }
+  *{
+    position: relative;
+    padding: 15px 30px 15px;
+    margin: 0;
+    border-radius: 2px;
+  }
+  
+  *:not(:last-child) {
+    margin-bottom: 40px;
+  }
+  
+
+  

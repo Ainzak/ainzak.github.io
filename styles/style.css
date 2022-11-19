@@ -1,0 +1,10 @@
+.color1{
+  border: solid 2px;
+  color: #995533;
+  width: 300px;
+}
+.color_2{
+  border: solid 2px green;
+  color: rgba(40%,60%,90%,0.9);
+  width: 300px;
+  }
